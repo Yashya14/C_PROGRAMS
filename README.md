@@ -14,7 +14,7 @@ These programs are not very sophisticated as these are beginners friendly and ha
 * #include< stdio.h > is wrong and you must remove whitespaces.#include<stdio.h> is correct.
 * Please check your spellings before making a PR.
 * Comment code properly.
-
+* Ignore all the .exe files in the above.
 
 ## Authors
 
