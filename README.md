@@ -4,7 +4,7 @@ Fork and ✴️ star this repo
 
 Simple, short and sweet beginners friendly C language programs
 
-These program are written in codeblocks ide for windows. 
+These program are written in visual studio code ide for windows. 
 Anyone who is new to c language can practice these examples.
 
 * Only programs written in c language will be merged.
